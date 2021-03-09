@@ -1,3 +1,4 @@
+#include "pch.h"
 #include "bat.h"
 
 Bat::Bat(float startX, float startY) {

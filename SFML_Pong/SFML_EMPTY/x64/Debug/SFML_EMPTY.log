@@ -1,4 +1,5 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (SFML_EMPTY.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  pch.cpp
-  SFML_EMPTY.cpp
+  SFML_Pong.cpp
+c:\users\moher\downloads\sfml_empty\sfml_pong\sfml_empty\sfml_pong.cpp(23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\moher\downloads\sfml_empty\sfml_pong\sfml_empty\sfml_pong.cpp(25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   SFML_EMPTY.vcxproj -> C:\Users\moher\Downloads\SFML_EMPTY\SFML_Pong\x64\Debug\SFML_Pong.exe
